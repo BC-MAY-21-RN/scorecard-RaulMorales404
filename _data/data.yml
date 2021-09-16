@@ -37,20 +37,26 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Empathy
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: communication skills
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: teamwork
+      link: # dejar en blanco
+      
+      - item: body language
+      link: # dejar en blanco
+      
+      - item: Responsibility in decision making
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a front-end software development engineer with a UX / UI facility when it comes to developing projects with React and react Native with an excellent ability to handle Css and javascrip to make a system come alive and be very interactive, it's interesting what you can do when you are passionate about what you do and support others in what you know how to do.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
