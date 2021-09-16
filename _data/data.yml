@@ -34,107 +34,110 @@ sidebar:
 
     - idiom: German
       level: Colloquial
+# Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
 
-  
-  # Record your soft skills here. Add or delete as needed
-  interests :
-    - article : Empathy
-      link : # leave blank
+    - item: Team Work
+      link: # dejar en blanco
 
-    - article : communication skills
-      link : # leave blank
+    - item: Time Management
+      link: # dejar en blanco
 
-    - article : teamwork
-      link : # leave blank
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 
-   - article : body language
-     link : # leave blank
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Applied Scientist full-time at AWS
+    university: Germany
+    time: 2020 Oct - current
+    details: |
 
-   - item : Responsibility in decision making
-      link : # leave blank
+  - degree: PhD in Computer vision and Machine learning
+    university: Heidelberg University
+    time: 2015 - 2020
+    details: |
+      Unsupervised deep learning for automatic behavior analysis
 
-# Register here a summary of your profile
-career profile :
-  title : About me # DO NOT CHANGE
-  summary : |
-   I am a front-end software development engineer with a UX / UI facility when it comes to developing projects with React and react Native with an excellent ability to handle Css and javascrip to make a system come alive and be very interactive, it's interesting what you can do when you are passionate about what you do and support others in what you know how to do.
-# Register your studies here. Add or remove as needed
-complete education :
-  - degree : systems engineer
-    university : Universidad Tecnológica de Manzanillo
-    time : 2016 - 2020 may - completed
-    details : Student, Engineering in Information Technology (ITI)
+        - Unsupervised learning
+        - Representaion learning
+        - Automatic Behavior Analysis
 
-# Register your experience here. Add or delete as needed
-experiences :
-- role : internship
-    time : 2018 - 2019
-    company : Tecnocible
-    details : : |
-      I did my TSU internship at Tecnocible for 4 months. I had the opportunity to develop a
-      project that solved the problems of a newspaper, a newspaper company in the city of Colima. 
-      I made use of technologies such as PHP, MySQL, JQuery, JavaScript and Bootstrap.
-      
-        - Vignette
-        - Vignette
-  - role : software engineer
-    time : 2019-2019
-    company : Port Transportation Service
-    details : |
-      I made a static website for the company Port Transportation Service for a month. 
-      I had the opportunity to develop a project, informative site, I was in charge to work with 
-      technologies as to work with technologies like html, css, javascript, javascript, javascript, etc.
-      
-       - Vignette
-       - Vignette
-        
-  - role : Developer
-    time : 2019-2020
-    company : Arho computation
-    details : |
-      I work as a full stack developer, in Arho computation
-      where I perform a process automation, for the repair of computer equipment, functions, functions (CRUD), sending emails for the review in time
-      computer equipment, functions (CRUD), sending of emails for real time review of the equipment, process
-      real time review of the equipment, process graphs, satisfaction surveys with
-      with technologies such as PHP for the backend, JavaScript such as Fronend, MySQL, JQuery
-      such as Fronend, MySQL, JQuery and Bootstrap, Appserv.
-      
-       - Vignette
-       - Vignette
-       
-  - role : Developer
-    time : 2020 - 2021
-    company : Personal experience
-    details : |
-     Develop an application to create exercise lists with React using API calls, for use in website design.
-     Bootstrap and css. API, for use in website design use Bootstrap and css. o Develop an application that displays
-     pokemons and details with pokeapi API calls using React for Fronend and css with Bootstrap.
-      
-      
-      
-# Register here your technical skills, for level uses:
-# 20% for beginners
-	@@ -122,23 +123,23 @@ skills:
-  title : Technical Skills # NO MODIFY.
+  - degree: Internship (Master Thesis)
+    university: Tobii
+    time: 2014 - 2015
+    details: |
+      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-  set of tools :
-    - name : JavaScript
-      level : 60 %
+        - Deep learning
+        - Hand Gesture
 
-    - name : React
-      level : 40%
+  - degree: Bachelor Degree
+    university: Politecnico di Torino (Torino, Italy)
+    time: 2009 - 2012
+    details: |
+      Master degree in Computer Engineering
 
-    - name : Css
-      level : 80% level
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
 
-    - name : Bootstrap
-      level : 80% level : 80%
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
 
-    - name : Sass
-      level : 30% level
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
 
-    - name : Ruby
-      level : 30 %
+  toolset:
+    - name: Python
+      level: 20%
+
+    - name: PyTorch
+      level: 40%
+
+    - name: Tensorflow
+      level: 60%
+
+    - name: Caffe
+      level: 80%
+
+    - name: Matlab
+      level: 100%
+
+    - name: C/C++
+      level: 40%
 
 # NO MODIFICAR
 footer: >
