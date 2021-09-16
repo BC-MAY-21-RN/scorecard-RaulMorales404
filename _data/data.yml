@@ -61,46 +61,47 @@ career-profile:
 educationcomplete:
   - degree: systems engineer
     university: Universidad Tecnológica de Manzanillo
-    time: 2020 Oct - current
+    time:  2016 - 2020 may - completed
     details: |
      Student, Engineering in Information Technology (ITI)
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2016 - 2020 may - completed
-    details: |
-      Unsupervised deep learning for automatic behavior analysis 
-
-        - Deep learning
-        - Hand Gesture
         
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Internship
+    time: 2018 - 2019
+    company: Tecnocible
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I did my TSU internship at Tecnocible for 4 months. I had the opportunity to develop a
+      project that solved the problems of a newspaper, a newspaper company in the city of Colima. 
+      I made use of technologies such as PHP, MySQL, JQuery, JavaScript and Bootstrap.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Software engineer
+    time: 2019 - 2019
+    company: Port Transportation Service
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I made a static website for the company Port Transportation Service for a month. 
+      I had the opportunity to develop a project, informative site, I was in charge to work with 
+      technologies as to work with technologies like html, css, javascript, javascript, javascript, etc.
+      
+      
+  - role: Software engineer
+    time: 2019 - 2020
+    company: Arho computation
+    details: |
+      I work as a full stack developer, in Arho computation
+      where I perform a process automation, for the repair of computer equipment, functions, functions (CRUD), sending emails for the review in time
+      computer equipment, functions (CRUD), sending of emails for real time review of the equipment, process
+      real time review of the equipment, process graphs, satisfaction surveys with
+      with technologies such as PHP for the backend, JavaScript such as Fronend, MySQL, JQuery
+      such as Fronend, MySQL, JQuery and Bootstrap, Appserv.
+      
+  - role: Software engineer
+    time: 2020 - 2021
+    company: Personal experience
+    details: |
+      Develop an application to create exercise lists with React using API calls, for use in website design.
+      Bootstrap and css. API, for use in website design use Bootstrap and css. o Develop an application that displays
+      pokemons and details with pokeapi API calls using React for Fronend and css with Bootstrap.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
