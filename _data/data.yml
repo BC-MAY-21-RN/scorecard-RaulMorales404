@@ -12,14 +12,14 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: r20160106@gmail.com
+  phone: 3141622258
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: linkedin.com/in/raul4b0096
+  github: RaulMorales404
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@doritos87245618'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Basic # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -37,80 +37,81 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Empathy
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Communication skills
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Teamwork
+      link: # dejar en blanco
+
+   - item: Body language
+     link: # dejar en blanco
+      
+   - item: Responsibility in decision making
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+   I am a front end software development engineer with a UX/UI facility when it comes to developing projects with React and react Native with an excellent ability to handle Css and javascrip to make a system come alive and be very interactive, it's interesting what you can do when you are passionate about what you do and support others in what you know how to do.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+  - degree: systems engineer 
+    university: Technological University of Manzanillo
+    time: 2016 - 2020 may -  concluded 
+    details: Student, Engineering in Information Technology (ITI)
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+- role: internship
+    time: 2018 - 2019
+    company: Tecnocible
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      I did my TSU internship at Tecnocible for 4 months. I had the opportunity to develop a 
+      project that solved the problems of a newspaper, a newspaper company in the city of Colima. 
+      I made use of technologies such as PHP, MySQL, JQuery, JavaScript and Bootstrap.
+      
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Software Engineer
+    time: 2019 - 2019
+    company: Port Transportation Service
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I made a static web site for the company Servicio de Transportació Portuari for a month. 
+      I had the opportunity to develop a project, informative site, I was in charge of working with 
+      technologies such as to work with technologies such as html, css, javascript, javascript
+      
+       - Bullet point
+       - Bullet point
+        
+  - role: Developer
+    time: 2019 - 2020 
+    company: Arho computation
+    details: |
+      I work as a full stack developer, in Arho computation
+      where I perform a process automation, for the repair of computer equipment, functions
+      computer equipment, functions (CRUD), sending emails for the review in real time of the equipment, process
+      real time review of the equipment, process graphs, satisfaction surveys with
+      with technologies such as PHP for the backend, JavaScript such as Fronend, MySQL, JQuery
+      such as Fronend, MySQL, JQuery, and Bootstrap, Appserv.
+      
+       - Bullet point
+       - Bullet point
+       
+  - role: Developer
+    time: 2020 - 2021
+    company: Personal experience
+    details: |
+     Develop an app to create exercise lists with React using API calls, for website design use
+     Bootstrap and css. API, for website design use Bootstrap and css. o Develop an app, that shows
+     pokemons and details with pokeapi API calls using React for Fronend and css with Bootstrap
+      
+      
+      
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +123,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
+    - name: React
+      level: 40%
+
+    - name: Css
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Bootstrap
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: Sass
+      level: 30%
+
+    - name: Ruby
+      level: 30%
 
 # NO MODIFICAR
 footer: >
