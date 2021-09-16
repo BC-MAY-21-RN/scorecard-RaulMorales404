@@ -36,53 +36,44 @@ sidebar:
       level: Colloquial
 # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Empathy
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Communication skills
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Teamwork
+      link: # dejar en blanco
+      
+    - item: Body language
+      link: # dejar en blanco
+      
+    - item: Responsibility in decision making
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a front-end software development engineer with a UX / UI facility when it comes to developing projects with React and react Native with an excellent ability to handle Css and javascrip to make a system come alive and be very interactive, it's interesting what you can do when you are passionate about what you do and support others in what you know how to do.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
+  - degree: systems engineer
+    university: Universidad Tecnológica de Manzanillo
     time: 2020 Oct - current
     details: |
+     Student, Engineering in Information Technology (ITI)
 
   - degree: PhD in Computer vision and Machine learning
     university: Heidelberg University
-    time: 2015 - 2020
+    time: 2016 - 2020 may - completed
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      Unsupervised deep learning for automatic behavior analysis 
 
         - Deep learning
         - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
-
+        
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Lead Developer
