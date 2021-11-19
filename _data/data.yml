@@ -118,7 +118,7 @@ skills:
     - name: React
       level: 40%
       
-      name: React Native
+    - name: React Native
       level: 80%
 
     - name: Css
