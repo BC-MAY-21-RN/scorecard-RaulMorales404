@@ -32,8 +32,6 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
 # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Empathy
@@ -106,8 +104,17 @@ experiences:
       with technologies such as PHP for the backend, JavaScript such as Fronend, MySQL, JQuery
       such as Fronend, MySQL, JQuery and Bootstrap, Appserv.
       
-  - role: Software engineer
+  - role: BrightCoders 
     time: 2020 - 2021
+    company: BrightCoders Academy
+    details: |
+      I was in BrightCoders Academy where we were trained in the use of React Native for the construction and development of the 
+      following mobile apps such as flight booking, 
+      recipe book, real estate, tourist sites, tools with which they were developed, firebase, react native cli, styled component,
+      css, javascript, code climate, ESLINT, Prettier, Jest, google maps, APIs through the implementation of best practices and standards.
+      
+  - role: Software engineer
+    time: 2021 - 2021
     company: Personal experience
     details: |
       Develop an application to create exercise lists with React using API calls, for use in website design.
@@ -122,10 +129,14 @@ experiences:
 # 100% para Expert
 skills:
   title: Technical Skills # NO MODIFICAR
-
+  
   toolset:
-    - name: JavaScript
+  
+    - name: Git and Github
       level: 60%
+      
+    - name: JavaScript
+      level: 70%
 
     - name: React
       level: 40%
@@ -133,17 +144,25 @@ skills:
     - name: React Native
       level: 80%
 
-    - name: Css
-      level: 80%
+    - name: Ruby
+      level: 40%
+      
+    - name: Firebase
+      level: 50%
+    
+     - name: Figma
+      level: 60%
 
     - name: Bootstrap
       level: 80%
 
     - name: Sass
       level: 30%
+      
+    - name: Css
+      level: 80%
 
-    - name: Ruby
-      level: 40%
+    
 
 # NO MODIFICAR
 footer: >
