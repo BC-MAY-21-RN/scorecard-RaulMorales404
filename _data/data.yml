@@ -104,9 +104,9 @@ experiences:
       with technologies such as PHP for the backend, JavaScript such as Fronend, MySQL, JQuery
       such as Fronend, MySQL, JQuery and Bootstrap, Appserv.
       
-  - role: BrightCoders 
+  - role: Software engineer
     time: 2020 - 2021
-    company: BrightCoders Academy
+    company: BrightCoders 
     details: |
       I was in BrightCoders Academy where we were trained in the use of React Native for the construction and development of the 
       following mobile apps such as flight booking, 
@@ -129,7 +129,6 @@ experiences:
 # 100% para Expert
 skills:
   title: Technical Skills # NO MODIFICAR
-  
   toolset:
   
     - name: Git and Github
@@ -150,7 +149,7 @@ skills:
     - name: Firebase
       level: 50%
     
-     - name: Figma
+    - name: Figma
       level: 60%
 
     - name: Bootstrap
